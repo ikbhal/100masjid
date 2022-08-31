@@ -6,6 +6,10 @@ function App() {
 
     <div className="App">
       <h1>100 Masjid</h1>
+      <p>Note: 400 mosques in bangalore . 
+
+      <a href='https://en.wikipedia.org/wiki/Places_of_worship_in_Bangalore'>wiki</a>
+      </p>
       <div className="masjid-list">
         {masjidList.map((masjid, index) =>{
           return (
