@@ -1,0 +1,9 @@
+.App {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.masjid{
+  border: 1px solid goldenrod;
+  padding: 10px;
+}
